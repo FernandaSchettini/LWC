@@ -1,0 +1,15 @@
+import { LightningElement } from 'lwc';
+
+export default class LWCExc1 extends LightningElement {
+  
+ lead={
+    primeironome:"Fernanda",
+    sobrenome:"Schettini",
+    idade:"39",
+    email:"feschettini@gmail.com",
+    classificaçao: "fechada",
+    empresa:"Shop50",
+    receitaanual:"R$ 145.210,00",
+
+ }   
+}

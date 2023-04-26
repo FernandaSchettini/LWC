@@ -1,6 +1,6 @@
 <template>
     <p>Id:{ide}</p>
     <p>Name:{name}</p>
-    <p>Amount:{amount}</p>
-    <p>Stagename:{stagename}</p>
+    <p>Company:{company}</p>
+    <p>Status:{status}</p>
 </template>

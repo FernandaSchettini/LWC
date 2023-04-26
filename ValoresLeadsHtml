@@ -1,0 +1,10 @@
+<template>
+    <lightning-card>
+  
+      <h1 class="slds-text-heading_large">Dados LEAD</h1>
+  
+  <c-leads ide="0" name="Fernanda" company="Bungle" status="Working - Contacted"></c-leads><br/>
+  <c-leads ide="1" name="Ricardo" company="Petro" status="Closed - Converted"></c-leads><br/>
+  
+    </lightning-card>  
+  </template>

@@ -1,0 +1,13 @@
+<template>
+    <lightning-card>
+  
+      <h1 class="slds-text-heading_large">Oportunidades da Conta</h1>
+  
+  <c-Oppsdaconta ide="0" name="Fernanda" amount="200" stagename="Needs Analysis"></c-Oppsdaconta><br/>
+  <c-Oppsdaconta ide="1" name="Ricardo" amount="150" stagename="Needs Analysis"></c-Oppsdaconta><br/>
+  <c-Oppsdaconta ide="2" name="Silvia" amount="450" stagename="Qualification"></c-Oppsdaconta><br/>
+  <c-Oppsdaconta ide="3" name="Sofia" amount="650" stagename="Prospecting"></c-Oppsdaconta><br/>
+  <c-Oppsdaconta ide="4" name="Edu" amount="520" stagename="Closed Won"></c-Oppsdaconta><br/>
+  
+    </lightning-card>  
+  </template>

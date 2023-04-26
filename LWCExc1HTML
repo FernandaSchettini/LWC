@@ -1,0 +1,13 @@
+<template>
+    <lightning-card>
+  
+        <h1 class="slds-text-heading_large">Lead {lead.primeironome} {lead.sobrenome}</h1>
+
+        <p>Idade: {lead.idade}</p>
+        <p>Email:{lead.email}</p>
+        <p>Classificaçao:{lead.classificaçao}</p>
+        <p>Empresa:{lead.empresa}</p>
+        <p>Receita Anual:{lead.receitaanual}</p>
+    
+    </lightning-card>  
+  </template>
